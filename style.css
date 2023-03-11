@@ -43,7 +43,7 @@ p.math {
     font-size: 16px;
 }
 
-p.ht {
+.ht {
     max-width: 1000px;
     padding: 5px 30px 5px 30px;
     font-size: 18px;
@@ -58,7 +58,6 @@ dl, ol {
     padding: 5px 30px 5px 30px;
     font-size: 16px;
 }
-
 
 footer {
     padding-bottom: 20px;
