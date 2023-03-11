@@ -63,6 +63,10 @@ footer {
     padding-bottom: 20px;
 }
 
+footer p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .float_right {
     float: right;
     padding-top: 20px;
