@@ -1,0 +1,70 @@
+body {
+    background-color: lightblue;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav.nav_bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightgrey;
+}
+
+nav.nav_bar li {
+    float: left;
+}
+
+nav.nav_bar li a {
+    display: block;
+    text-align: center;
+    padding: 12px 30px;
+    background-color: lightgrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav.nav_bar li a:hover {
+    background-color: darkgrey;
+}
+
+p {
+    max-width: 600px;
+    margin: 30px 30px 30px 30px;
+    font-size: 16px;
+}
+
+p.math {
+    max-width: 800px;
+    margin: 30px 30px 30px 30px;
+    font-size: 16px;
+}
+
+h2, h3 {
+    margin: 20px 30px 20px 30px;
+}
+
+dl, ol {
+    max-width: 800px;
+    margin: 30px 30px 30px 30px;
+    font-size: 16px;
+}
+
+footer {
+    bottom: 20px;
+}
+
+.float_right {
+    float: right;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.float_right figcaption {
+    text-align: center;
+    color: dimgrey;
+}
