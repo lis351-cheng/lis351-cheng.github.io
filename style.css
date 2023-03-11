@@ -43,19 +43,19 @@ p.math {
     font-size: 16px;
 }
 
-.ht {
-    max-width: 1000px;
-    padding: 5px 30px 5px 30px;
-    font-size: 18px;
-}
-
 h2, h3 {
     padding: 5px 30px 5px 30px;
 }
 
-dl, ol {
+dl {
     max-width: 800px;
     padding: 5px 30px 5px 30px;
+    font-size: 16px;
+}
+
+ol {
+    max-width: 800px;
+    padding: 5px 30px 5px 50px;
     font-size: 16px;
 }
 
